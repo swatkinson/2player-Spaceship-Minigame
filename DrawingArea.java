@@ -14,7 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger; //initializing libraries
 
 /**
- * @author Spencer Watkinson ICS3U - Slings and Arrows Game 2 player game where
+ * @author Spencer Watkinson 2 player game where
  * you shoot the 2 types of projectiles at your opponent until you destroy their
  * ship.
  */
